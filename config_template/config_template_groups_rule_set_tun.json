@@ -111,6 +111,7 @@
         "America",
         "Others"
       ],
+      "default": "America"
     },
     {
       "tag":"Google",
@@ -188,6 +189,7 @@
         "America",
         "Others"
       ],
+      "default": "America"
     },
     {
       "tag":"TikTok",
@@ -197,9 +199,9 @@
         "TaiWan",
         "Singapore",
         "Japan",
-        "America"，
-        "Others"
+        "America"
       ],
+      "default": "Japan"
     },
     {
       "tag":"Netflix",
