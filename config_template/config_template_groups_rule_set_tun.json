@@ -105,11 +105,6 @@
       "tag":"OpenAI",
       "type":"selector",
       "outbounds":[
-        "Proxy",
-        "Singapore",
-        "Japan",
-        "America",
-        "Others",
         "{all}"
       ]
     },
