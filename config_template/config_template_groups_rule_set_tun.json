@@ -110,8 +110,7 @@
         "Japan",
         "America",
         "Others"
-      ],
-      "default": "America"
+      ]
     },
     {
       "tag":"Google",
@@ -134,7 +133,8 @@
         "Singapore",
         "Japan",
         "America",
-        "Others"
+        "Others".
+        "Proxy"
       ]
     },
     {
@@ -146,7 +146,7 @@
         "Singapore",
         "Japan",
         "America",
-        "Others"
+        "Others",
       ]
     },
     {
@@ -188,8 +188,7 @@
         "Japan",
         "America",
         "Others"
-      ],
-      "default": "America"
+      ]
     },
     {
       "tag":"TikTok",
@@ -199,9 +198,10 @@
         "TaiWan",
         "Singapore",
         "Japan",
-        "America"
-      ],
-      "default": "Japan"
+        "America",
+        "Proxy",
+        "Others"
+      ]
     },
     {
       "tag":"Netflix",
