@@ -1,7 +1,7 @@
 {
   "log": {
-    "disabled": true,
     "level": "info",
+    "disabled": true,
     "timestamp": true
   },
   "experimental": {
@@ -102,10 +102,129 @@
       ]
     },
     {
-      "tag":"China",
+      "tag":"OpenAI",
+      "type":"selector",
+      "outbounds":[
+        "Proxy"
+      ],
+    },
+    {
+      "tag":"Google",
+      "type":"selector",
+      "outbounds":[
+        "Proxy"
+      ]
+    },
+    {
+      "tag":"Telegram",
+      "type":"selector",
+      "outbounds":[
+       "Proxy"
+      ]
+    },
+    {
+      "tag":"Twitter",
+      "type":"selector",
+      "outbounds":[
+        "Proxy"
+      ]
+    },
+    {
+      "tag":"Facebook",
+      "type":"selector",
+      "outbounds":[
+       "Proxy"
+      ]
+    },
+    {
+      "tag":"BiliBili",
       "type":"selector",
       "outbounds":[
         "direct"
+      ]
+    },
+    {
+      "tag":"Bahamut",
+      "type":"selector",
+      "outbounds":[
+        "Proxy"
+      ]
+    },
+    {
+      "tag":"Spotify",
+      "type":"selector",
+      "outbounds":[
+        "Proxy"
+      ],
+
+    },
+    {
+      "tag":"TikTok",
+      "type":"selector",
+      "outbounds":[
+        "Proxy"
+      ],
+    },
+    {
+      "tag":"Netflix",
+      "type":"selector",
+      "outbounds":[
+        "Proxy"
+      ]
+    },
+    {
+      "tag":"Disney+",
+      "type":"selector",
+      "outbounds":[
+        "Proxy"
+      ]
+    },
+    {
+      "tag":"Apple",
+      "type":"selector",
+      "outbounds":[
+        "direct",
+        "Proxy"
+      ]
+    },
+    {
+      "tag":"Microsoft",
+      "type":"selector",
+      "outbounds":[
+        "direct",
+        "Proxy"
+      ]
+    },
+    {
+      "tag":"Games",
+      "type":"selector",
+      "outbounds":[
+        "direct",
+        "Proxy"
+      ]
+    },
+    {
+      "tag":"Streaming",
+      "type":"selector",
+      "outbounds":[
+        "direct",
+        "Proxy"
+      ]
+    },
+    {
+      "tag":"Global",
+      "type":"selector",
+      "outbounds":[ 
+        "Proxy",
+        "direct"
+      ]
+    },
+    {
+      "tag":"China",
+      "type":"selector",
+      "outbounds":[
+        "direct",
+        "Proxy"
       ]
     },
     {
