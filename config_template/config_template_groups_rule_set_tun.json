@@ -233,16 +233,7 @@
         "direct"
       ]
     },
-    {
-      "tag":"HongKong",
-      "type":"selector",
-      "outbounds":[
-        "{all}"
-      ],
-      "filter":[
-        {"action":"include","keywords":["🇭🇰|HK|hk|香港|港|HongKong"]}
-      ]
-    },
+    
     {
       "tag":"TaiWan",
       "type":"selector",
