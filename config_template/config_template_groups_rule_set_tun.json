@@ -212,7 +212,6 @@
       "tag":"Global",
       "type":"selector",
       "outbounds":[ 
-        "HongKong",
         "{all}",
         "direct"
       ]
